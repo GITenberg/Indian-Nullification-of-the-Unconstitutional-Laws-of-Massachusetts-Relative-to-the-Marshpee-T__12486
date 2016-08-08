@@ -1,0 +1,30 @@
+_repo: Indian-Nullification-of-the-Unconstitutional-Laws-of-Massachusetts-Relative-to-the-Marshpee-T__12486
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Apess, William
+    alias: Apes, William
+    birthdate: 1798
+    deathdate: 1839
+    gutenberg_agent_id: '4392'
+    url: http://www.gutenberg.org/2009/agents/4392
+    wikipedia: http://en.wikipedia.org/wiki/William_Apess
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mashpee Indians -- Land tenure'
+- !lcsh 'Indians of North America -- Legal status, laws, etc.'
+- !lcc 'E011'
+- !lcsh 'Mashpee Indians -- Legal status, laws, etc.'
+- GITenberg
+title: "Indian Nullification of the Unconstitutional Laws of Massachusetts Relative\
+  \ to the Marshpee Tribe\r\nOr, the Pretended Riot Explained"
+url: http://www.gutenberg.org/ebooks/12486
